@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Security and Realtime problem solving applications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sivanesan1103]([https://github.com/sivanesan1103])
+- 👨‍💻 All of my projects are available at [https://github.com/sivanesan1103](https://github.com/sivanesan1103)
 
 - 📫 You can reach me ON Discord or any Social media **siva#7586**
 
